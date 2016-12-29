@@ -3,6 +3,5 @@ module.exports = {
   output: {
     path: "lib",
     filename: "jquery_lite.js"
-  },
-  watch: true
+  }
 };
